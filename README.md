@@ -1,22 +1,23 @@
 This project was prepared for the "Akbank Machine Learning Bootcamp: New Generation Project Camp" assignment... (Global IA Hub)
 
-Business Problem: Predict the onset of diabetes based on diagnostic measures
-I tried to develop a machine learning model that predicts whether people have diabetes using the "diabetes" dataset.
+* Business Problem: Predict the onset of diabetes based on diagnostic measures
 
-Dataset: Pima Indians Diabetes Database
-https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
-Collaborators : UCI Machine Learning (Owner) and Kaggle Team (Admin)
+* I tried to develop a machine learning model that predicts whether people have diabetes using the "diabetes" dataset.
+
+* Dataset: Pima Indians Diabetes Database
+  https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+  Collaborators : UCI Machine Learning (Owner) and Kaggle Team (Admin)
 
 -----------------------------------------------------------------------------------------------------------------------
 Projede istenen gereklilikler (Global AI Hub):
 
-Bu projede ilk olarak katılımcılar makine öğreniminde iki temel yol arasında seçim
+* Bu projede ilk olarak katılımcılar makine öğreniminde iki temel yol arasında seçim
 yapacaklardır: sınıflandırma veya regresyon.
 
-Öğrenciler tahmin amaçlı olarak verileri kategoriler halinde sınıflandırmayı veya
+* Öğrenciler tahmin amaçlı olarak verileri kategoriler halinde sınıflandırmayı veya
 girdi özelliklerine dayalı olarak sürekli değerleri tahmin etmeyi öğreneceklerdir.
 
-Bu proje, öğrencilere yapay zeka ve makine öğrenmesi alanında sınıflandırma ve
+* Bu proje, öğrencilere yapay zeka ve makine öğrenmesi alanında sınıflandırma ve
 regresyon alanlarında veri analizi, model geliştirme ve değerlendirme teknikleri konusunda
 pratik deneyim kazandırmayı amaçlamaktadır.
 
@@ -32,6 +33,7 @@ kaynakları inceleyerek orada yer alan bir veri seti seçebilirsiniz.
 * Projeniz, .ipynb uzantılı bir dosyada gerçekleştirilmiş olmalı.
 * Bu dosyada, kod satırlarının yanı sıra projenizin teknik detaylarını açıkladığınız
 yorum hücreleriniz olmalı.
+
 4 - Bir GitHub Reposu & README.md Dosyası oluşturun
 * Bir Github reposu oluşturmalısınız.
 * Bu repoda .ipynb uzantılı proje dosyanız, veri seti dosyanız ve README.md
